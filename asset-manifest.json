@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-lottery/static/css/main.f32775ed.css",
+    "main.js": "/react-lottery/static/js/main.69457545.js",
+    "index.html": "/react-lottery/index.html",
+    "main.f32775ed.css.map": "/react-lottery/static/css/main.f32775ed.css.map",
+    "main.69457545.js.map": "/react-lottery/static/js/main.69457545.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f32775ed.css",
+    "static/js/main.69457545.js"
+  ]
+}
